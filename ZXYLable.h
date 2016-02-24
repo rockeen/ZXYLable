@@ -30,4 +30,6 @@
 
 @interface ZXYTextAttachMent : NSTextAttachment
 
+//.....
+
 @end
